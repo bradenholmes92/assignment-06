@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box
+}
+
+img{
+   width: 100%;
+   display: block;
+}
+
+#app-container{
+  font-family: sans-serif;
+}
+
+.header__title{
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 3px;
+}
